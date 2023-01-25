@@ -1,0 +1,11 @@
+C:\Users\ozhan\source\repos\Object_Movement_Game\bin\Debug\Object_Movement_Game.exe.config
+C:\Users\ozhan\source\repos\Object_Movement_Game\bin\Debug\Object_Movement_Game.exe
+C:\Users\ozhan\source\repos\Object_Movement_Game\bin\Debug\Object_Movement_Game.pdb
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.csproj.AssemblyReference.cache
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.Form1.resources
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.Properties.Resources.resources
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.csproj.GenerateResource.cache
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.csproj.CoreCompileInputs.cache
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.exe
+C:\Users\ozhan\source\repos\Object_Movement_Game\obj\Debug\Object_Movement_Game.pdb
